@@ -1,0 +1,21 @@
+{
+  "name": "loyverse_automated_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerXXXy/loyverse_automated_tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NerXXXy/loyverse_automated_tests/issues"
+  },
+  "homepage": "https://github.com/NerXXXy/loyverse_automated_tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
